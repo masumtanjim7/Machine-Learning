@@ -1,5 +1,5 @@
-#Laptop Price Predictor
-<h1>TrendyTreasure - A Gift Shop Management System with PHP</h1>
+
+<h1>Laptop Price Predictor - Based On Machine Learning</h1>
 </hr>
 🌐 Social Links
 
